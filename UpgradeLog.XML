@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="template">
+</Property><Property Name="Solution File" Value="E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template.sln">
+</Property><Property Name="User Options File" Value="E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template.suo">
+</Property><Property Name="Date" Value="6 maja 2012">
+</Property><Property Name="Time" Value="23:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="template.sln" Description="File successfully backed up as E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="template.suo" Description="File successfully backed up as E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template.suo.old">
+</Event><Event ErrorLevel="0" Project="template" Source="template\template.vcproj" Description="Converting project file 'E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template\template.vcproj'.">
+</Event><Event ErrorLevel="1" Project="template" Source="template\template.vcproj" Description="VCConvertEngine.dll encountered an error.">
+</Event><Event ErrorLevel="1" Project="template" Source="template\template.vcproj" Description="VCConvertEngine.dll encountered an error.">
+</Event><Event ErrorLevel="1" Project="template" Source="template\template.vcproj" Description="VCConvertEngine could not convert attribute ConfigurationType = 1 under Configuration Debug|Win32.">
+</Event><Event ErrorLevel="1" Project="template" Source="template\template.vcproj" Description="VCConvertEngine could not convert attribute CharacterSet = 2 under Configuration Debug|Win32.">
+</Event><Event ErrorLevel="2" Project="template" Source="template\template.vcproj" Description="The imported project &quot;C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\BuildCustomizations\NvCudaRuntimeApi.targets&quot; was not found. Confirm that the path in the &lt;Import&gt; declaration is correct, and that the file exists on disk.  E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template\template.vcxproj">
+</Event><Event ErrorLevel="2" Project="E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template\template.vcproj" Source="" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template\template.vcproj&#xA;Line: 34&#xA;Column: 5&#xA;Error Message:&#xA;System error: -2146233088.&#xA;&#xA;The file 'E:\Projects\C++\GPCA\Projekty Maciek B\gpca_B_4\template\template\template.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="template" Source="template\template.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="template" Source="template\template.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="template.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="template.sln" Description="Converted">
+</Event></UpgradeLog>
